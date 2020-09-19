@@ -1,0 +1,55 @@
+.about
+{
+    height: 457px;
+    width: 100%;
+background-image: url("bg1.jpg");
+padding-left: 60px;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+opacity: 0.9;
+}
+.jumbotron{
+    height: 150px;
+    margin-bottom: 0px;
+    
+}
+.info{
+    padding-right: 200px;
+    opacity: 0.9;
+}
+.education{
+    height: 250px;
+    margin-bottom: 0px;
+}
+.jumbotron1{
+    height: 250px;
+    margin-bottom: 0px;
+}
+.projects{
+    background-color:whitesmoke;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.849);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+#social-fb:hover {
+    color: #3B5998;
+}
+#social-tw:hover {
+    color: #4099FF;
+}
+#social-in:hover {
+    color: #d34836;
+}
+#social-em:hover {
+    color: #f39c12;
+}
+#logo{
+    padding-left: 40px;
+    padding-top: 100px;
+}
